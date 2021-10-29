@@ -1,5 +1,22 @@
 body{
 
-    background-color: aqua;
-    color: blueviolet;
+    background-color: white;
+    color: black;
+}
+
+.cheat{
+    border: black 5px solid;
+    background-color: rgb(226, 143, 19);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    margin: 20px;
+}
+
+
+.cheat-black{
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border: black 5px solid;
+    background-color: rgb(226, 143, 19);
 }
